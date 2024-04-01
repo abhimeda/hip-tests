@@ -3,7 +3,6 @@ cmake_minimum_required(VERSION 3.16.8)
 # to skip the simple compiler test
 set(CMAKE_C_COMPILER_WORKS 1)
 set(CMAKE_CXX_COMPILER_WORKS 1)
-set(CTEST_OUTPUT_ON_FAILURE 1)
 
 project(hiptests)
 
